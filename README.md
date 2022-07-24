@@ -24,6 +24,17 @@ const karamaga henry = {
 - Email:[henriekaramaga@gmail.com](henriekaramaga@gmail.com)
 
 
+<h2><i>Tech Stack</i></h2>
+
+<p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
+    <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt=""jest" />
+</p>
+
 ## Git hub stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=henrykgggg&theme=elegant&date_format=M%20j%5B%2C%20Y%5D&currStreakLabel=54AEFF&border=AFB8C18B&background=F6F8FA0F&ring=FFBC00&fire=FFBC00&sideLabels=00DB49&dates=8A8FA0&stroke=AFB8C128&sideNums=8A8FA0&currStreakNum=8A8FA0)](https://git.io/streak-stats)
