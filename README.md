@@ -9,7 +9,7 @@
 ```javascript
 const karamaga henry = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
-  pronouns: ["she", "her"],
+  pronouns: ["he", "him"],
   code: [JavaScript, HTML/CSS, Bootstrap],
   askMeAbout: [doxy, The 1975, food recipes, renovation shows],
   challenge: "I am honing my Javascript skills and picking up TypeScript",
