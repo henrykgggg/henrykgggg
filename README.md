@@ -20,7 +20,7 @@ const karamaga henry = {
 ```
 ## 📲 Let's Connect
 - Linkdhin: [![Linkedin Badge](https://img.shields.io/badge/-karamaga%20henrie-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/karamaga-henrie-35a539232/)
-- Twitter: [![Twitter Badge](https://img.shields.io/badge/-@karamaga_henry_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/karamaga_henry)](https://twitter.com/karamaga_henry)
+- Twitter: [![Twitter Badge](https://img.shields.io/badge/-@karamaga_henry_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/karamaga_henry)](https://twitter.com/KaramagaH)
 - Email:[henriekaramaga@gmail.com](henriekaramaga@gmail.com)
 
 
