@@ -1,4 +1,4 @@
-### Hi there 👋 am karamaga henry 
+### Hi there 👋 am karamaga 
 
 
 
@@ -7,7 +7,7 @@
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const karamaga henry = {
+const karamaga = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "him"],
   code: [JavaScript, HTML/CSS, Bootstrap],
