@@ -1,10 +1,24 @@
-### Hi there 👋 am karamaga 
+
+ <!---------------------------------- Heading Section ------------------------------->
+<h1 align="center">
+    <a href="#">Hi, I'm karamaga henry !!!</a>
+    <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
+</h1>
+
+<!----------------------------- About Section -------------------------------->
 
 
+<h3>I am a passionate full-stack software developer who enjoys working on all kinds of tech.</h3>
 
-                      🔭 I’m  a software develpoer student  based in Kigali-Rwanda. I enjoy making web applications.
-                         I yearn to always learn more to become a better programmer and version of myself.
-### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
+- I’m currently available for new job opportunities
+
+- 👯 I’m looking to collaborate on **Software Development Projects**
+
+- 🦾 I'm a problem solver and fast learner with good communication skills
+
+- 💬 Ask me about **Software Development**
+
+- ⚡ I like 👨‍💻 : Programming | ☕: Coffee | 📖: books <hr>
 
 ```javascript
 const karamaga = {
